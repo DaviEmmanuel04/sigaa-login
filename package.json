@@ -1,0 +1,26 @@
+{
+  "name": "sigaa-login",
+  "version": "1.0.0",
+  "description": "### 📝 Definição do Projeto A Superintendência de Tecnologia da Informação e Comunicação (SUTIC) não disponibiliza uma API de autenticação de login para aplicações de terceiros. Isso acaba sendo limitante para os discentes da instituição que desejam fazer aplicações voltadas para o público da universidade, pois é difícil limitar, de forma automática, o acesso apenas para os membros da instituição. O SIGAA oferece essa funcionalidade, pois apenas pessoas que possuem um vínculo com a universidade conseguem acessar, além disso ele disponibiliza informações como nome e email.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./src/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DaviEmmanuel04/sigaa-login.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DaviEmmanuel04/sigaa-login/issues"
+  },
+  "homepage": "https://github.com/DaviEmmanuel04/sigaa-login#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.12",
+    "puppeteer": "^21.1.1",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.6"
+  }
+}
