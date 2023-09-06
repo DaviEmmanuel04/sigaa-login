@@ -14,3 +14,8 @@ A aplicação consiste em uma API de web scraping que irá realizar o login e re
 - Retornar os dados básicos do usuário;
 - Retornar foto do usuário;
 - permitir que o usuário encerre a sessão.
+
+### Artigo e Apresentação 
+[V_V.pdf](https://github.com/DaviEmmanuel04/sigaa-login/files/12541755/V_V.pdf)
+
+[Slide](https://docs.google.com/presentation/d/1w1CMEk_qdQHYXqnE4Q1wcl-waRklw4EC7h52dDfxY9M/edit?usp=sharing)
