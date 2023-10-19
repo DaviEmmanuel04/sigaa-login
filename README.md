@@ -16,6 +16,17 @@ A aplicação consiste em uma API de web scraping que irá realizar o login e re
 - permitir que o usuário encerre a sessão.
 
 ### Artigo e Apresentação 
-[V_V.pdf](https://github.com/DaviEmmanuel04/sigaa-login/files/12541755/V_V.pdf)
+[V_V.pdf](https://github.com/DaviEmmanuel04/sigaa-login/files/13046538/V_V.pdf)
+
 
 [Slide](https://docs.google.com/presentation/d/1w1CMEk_qdQHYXqnE4Q1wcl-waRklw4EC7h52dDfxY9M/edit?usp=sharing)
+
+### Documentação da API
+POST `/login`
+#### Body
+```
+{
+  "username": "nome de usuário",
+  "password": "senha do usuário"
+}
+```
