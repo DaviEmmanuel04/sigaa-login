@@ -19,6 +19,8 @@
   "homepage": "https://github.com/DaviEmmanuel04/sigaa-login#readme",
   "dependencies": {
     "cheerio": "^1.0.0-rc.12",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
     "puppeteer": "^21.1.1",
     "request": "^2.88.2",
     "request-promise": "^4.2.6"
